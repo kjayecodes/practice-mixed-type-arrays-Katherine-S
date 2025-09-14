@@ -1,2 +1,2 @@
-let userProfile = ["big.alice",30,true,{ city: "Philidelphia" },["coding", "cooking", "cycling"]]; //mixed array
+let userProfile = ["big.alice",31,true,{ city: "Philidelphia" },["swimming", "coding", "cooking", "cycling"]]; //mixed array
 console.log(userProfile); //prints the entire array
